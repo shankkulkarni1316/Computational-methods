@@ -1,2 +1,2 @@
-# Computational-methods
+# Computational methods MATLAB
 Course 
